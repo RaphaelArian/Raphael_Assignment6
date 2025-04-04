@@ -1,1 +1,6 @@
 This is a placeholder for the project details.
+
+ User Login  
+- Added login/logout functionality.  
+- Encrypted password storage.  
+- Enabled two-factor authentication.  
