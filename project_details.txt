@@ -3,4 +3,9 @@ This is a placeholder for the project details.
 User Login System  
 - Added login and logout functionality.  
 - Secure password encryption.  
-- Enabled two-factor authentication.  
+
+User Login  
+- Added login/logout functionality.  
+- Encrypted password storage.  
+
+- Enabled two-factor authentication.
